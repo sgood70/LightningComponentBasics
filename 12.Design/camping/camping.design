@@ -1,0 +1,4 @@
+<design:component label="I2max Camping Item">
+    <design:attribute name="sTitle" label="Small Title" description="작은 제목입니다."/>
+    <design:attribute name="bTitle" label="Big Title" description="큰 제목입니다."/>	
+</design:component>

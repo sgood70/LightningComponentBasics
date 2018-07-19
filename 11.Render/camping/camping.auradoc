@@ -1,0 +1,14 @@
+<aura:documentation>
+	<aura:description>
+    	<b>이것은 Lightning Component에 대한 샘플입니다.</b>
+        <p>프로그램에서 이렇게 사용하세요 <code>c:camping</code> 이렇게요.</p>
+        <p>이렇게 말이에요 <pre>&lt;c:camping&gt;</pre> 이렇게요.</p>
+    </aura:description>
+	<aura:example name="CampingExample" ref="c:camping" label="Camping Example">
+		Camping에 대한 Example.
+	</aura:example>
+    
+	<aura:example name="CampingExample1" ref="c:campingList" label="Camping Example1">
+		Camping에 대한 Example 1.
+	</aura:example>
+</aura:documentation>
